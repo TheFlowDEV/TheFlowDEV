@@ -46,4 +46,5 @@
 ## ✉️ Связаться со мной  
 - GitHub: [@TheFlowDEV](https://github.com/TheFlowDEV)  
 - Telegram: [@WladimirIT](https://t.me/WladimirIT)  
-- Email: wladimir12032005@gmail.com  
+- Email: wladimirgaydukov@gmail.com
+
