@@ -10,7 +10,7 @@
   - **Backend**: Django, Flask, REST API, gRPC.  
   - **Frontend**: Vue.js, Material Design Bootstrap.  
   - **Базы данных**: PostgreSQL, SQLite.  
-  - **AI и ML**: BERT, Keras, Pandas, NumPy.  
+  - **AI и ML**: scikit-learn, Keras, Pandas, NumPy.  
   - **Инструменты DevOps**: Docker, Nginx.  
   - **Другое**: PyQt5/6, aiogram, telebot, Discord API.  
 
