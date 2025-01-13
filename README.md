@@ -45,7 +45,5 @@
 
 ## ✉️ Связаться со мной  
 - GitHub: [@TheFlowDEV](https://github.com/TheFlowDEV)  
-- Telegram: [@TheFlow](https://t.me/TheFlow)  
-- Email: theflowdev@example.com  
-
-Спасибо за внимание! 🙌
+- Telegram: [@WladimirIT](https://t.me/WladimirIT)  
+- Email: wladimir12032005@gmail.com  
