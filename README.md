@@ -1,50 +1,53 @@
-# 👋 Привет! Я Владимир (TheFlowDEV)  
+# 👋 Привет, я Владимир! / Hi there, I'm Wladimir!
 
-🎓 **Студент 2 курса ТПУ**, увлечённый разработкой и исследованием новых технологий.  
-💻 **Fullstack-разработчик** с интересом к вебу, ботам, искусственному интеллекту.
-
----
-
-## 🚀 Обо мне  
-- 🛠️ **Стек технологий**:  
-  - **Backend**: Django, Flask, FastAPI, REST API, gRPC, Express.js
-  - **Frontend**: Vue.js, React, Material Design Bootstrap.  
-  - **Базы данных**: PostgreSQL, SQLite.  
-  - **AI и ML**: scikit-learn, Keras, Pandas, NumPy.  
-  - **Инструменты DevOps**: Docker, Nginx.  
-  - **Другое**: PyQt5/6, aiogram, telebot, Discord API.  
-
-- 🧩 **Ключевые проекты**:  
-  - 🌀 [**Vue Anime**](https://github.com/TheFlowDEV/vue_anime_public): Поиск и просмотр аниме через Electron-приложение.  
-  - 🛒 [**StudentMarket**](https://github.com/TheFlowDEV/site_avito_public): Платформа для продажи вещей студентами с интеллектуальными рекомендациями.  
-  - 📦 [**CDEK Case**](https://github.com/TheFlowDEV/cdek_case): Решение хакатон-кейса с использованием анализа текста и изображений на Keras.  
-  - 🎮 [**Dead Cells Console Game**](https://github.com/TheFlowDEV/game): Консольная игра-рогалик на C++ с использованием потоков и процедурной генерации.  
-
-- 🎯 **Цели**:  
-  - Развиваться в области разработки веб-приложений и AI.  
-  - Углубиться в бекенд разработку 
+> 🎓 **Студент 2 курса ТПУ** / 2nd-year CS Student @ TPU  
+> 💻 **Fullstack-разработчик** / Fullstack Developer  
+> 🤖 **AI & ML enthusiast**
 
 ---
 
-## 🌟 Репозитории  
+## 🚀 Обо мне / About Me  
 
-| 📂 Проект                 | 📝 Описание                                                                                  | 🔗 Ссылка                                              |
-|---------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| 🎮 Dead Cells Console Game | Консольный рогалик на C++ с потоками и процедурной генерацией карты.                         | [Репозиторий](https://github.com/TheFlowDEV/game)     |
-| 🛒 StudentMarket           | Платформа для продажи вещей студентами с интеллектуальными рекомендациями.                   | [Репозиторий](https://github.com/TheFlowDEV/site_avito_public) |
-| 🌀 Vue Anime               | Электрон-приложение для поиска и просмотра аниме.                                           | [Репозиторий](https://github.com/TheFlowDEV/vue_anime_public) |
-| 📦 CDEK Case               | Хакатон-кейс по анализу текста и изображений.                                               | [Репозиторий](https://github.com/TheFlowDEV/cdek_case) |
+- 🛠️ **Стек / Tech Stack**  
+  - **Backend**: Django, Flask, FastAPI, REST, gRPC, Express.js  
+  - **Frontend**: Vue.js, React, MDBootstrap  
+  - **DB**: PostgreSQL, SQLite  
+  - **AI/ML**: scikit-learn, Keras, Pandas, NumPy  
+  - **DevOps**: Docker, Nginx  
+  - **Other**: PyQt, aiogram, telebot, Discord API  
+
+- 🧩 **Ключевые проекты / Key Projects**  
+  - 🌀 **Vue Anime** — Electron-app for anime search & watch  
+  - 🛒 **StudentMarket** — peer-to-peer sales platform with recommendations  
+  - 📦 **CDEK Case** — hackathon solution: text & image analysis on Keras  
+  - 🎮 **Dead Cells Console Game** — roguelike in C++ with procedural maps  
+
+- 🎯 **Цели / Goals**  
+  - Deepen web & AI skills  
+  - Grow as backend engineer  
 
 ---
 
-## 📈 Статистика  
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=TheFlowDEV&show_icons=true&theme=radical)  
-![Самые популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFlowDEV&layout=compact&theme=radical)  
+## 🌟 Репозитории / Repositories  
+
+| Проект / Project             | Описание / Description                                                          | Ссылка / Link                                      |
+|-----------------------------|---------------------------------------------------------------------------------|---------------------------------------------------|
+| 🎮 Dead Cells Console Game  | C++ roguelike with threads & procedural map gen.                                | [GitHub](https://github.com/TheFlowDEV/game)      |
+| 🛒 StudentMarket            | Student marketplace with AI recommendations.                                    | [GitHub](https://github.com/TheFlowDEV/site_avito_public) |
+| 🌀 Vue Anime                | Electron-based anime search & viewer.                                           | [GitHub](https://github.com/TheFlowDEV/vue_anime_public) |
+| 📦 CDEK Case                | Keras-powered hackathon project: text + image analysis.                         | [GitHub](https://github.com/TheFlowDEV/cdek_case) |
 
 ---
 
-## ✉️ Связаться со мной  
+## 📈 Статистика / Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFlowDEV&show_icons=true&theme=radical)  
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFlowDEV&layout=compact&theme=radical)  
+
+---
+
+## ✉️ Контакты / Get in touch  
+
 - GitHub: [@TheFlowDEV](https://github.com/TheFlowDEV)  
 - Telegram: [@WladimirIT](https://t.me/WladimirIT)  
-- Email: wladimirgaydukov@gmail.com
-
+- Email: wladimirgaydukov@gmail.com  
