@@ -7,8 +7,8 @@
 
 ## 🚀 Обо мне  
 - 🛠️ **Стек технологий**:  
-  - **Backend**: Django, Flask, REST API, gRPC.  
-  - **Frontend**: Vue.js, Material Design Bootstrap.  
+  - **Backend**: Django, Flask, FastAPI, REST API, gRPC, Express.js
+  - **Frontend**: Vue.js, React, Material Design Bootstrap.  
   - **Базы данных**: PostgreSQL, SQLite.  
   - **AI и ML**: scikit-learn, Keras, Pandas, NumPy.  
   - **Инструменты DevOps**: Docker, Nginx.  
